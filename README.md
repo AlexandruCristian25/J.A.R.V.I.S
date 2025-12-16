@@ -120,8 +120,9 @@ This project is intended for **educational, demonstration, and personal use**.
 
 ---
 
-## ⭐ Final Notes
+## Final Notes
 
-J.A.R.V.I.S is designed to **look impressive, feel immersive, and be easy to extend**. Whether you are presenting a concept, learning advanced Tkinter techniques, or building the foundation for a real AI assistant, this project gives you a strong and visually striking starting point.
+J.A.R.V.I.S is designed to **look impressive, feel immersive, and be easy to extend**. 
+Whether you are presenting a concept, learning advanced Tkinter techniques, or building the foundation for a real AI assistant, this project gives you a strong and visually striking starting point.
 
-Enjoy the HUD. 🚀
+Enjoy the HUD.
