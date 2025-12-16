@@ -1,6 +1,6 @@
 # J.A.R.V.I.S – Interactive AI‑Style HUD Interface
 
-> **J.A.R.V.I.S (Just A Robotic Voice Intelligent System)** is a futuristic, animated Heads‑Up Display inspired by sci‑fi AI interfaces.
+> **J.A.R.V.I.S (Just Automation Robotic Voice Intelligent System)** is a futuristic, animated Heads‑Up Display inspired by sci‑fi AI interfaces.
 > This project focuses on visual immersion, system‑style animations, and an HUD experience built entirely with Python.
 
 ---
