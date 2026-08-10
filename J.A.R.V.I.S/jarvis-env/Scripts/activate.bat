@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\Alexandru Cristian\Desktop\J.A.R.V.I.S\jarvis-env"
+set "VIRTUAL_ENV=E:\Stick2\J.A.R.V.I.S\jarvis-env"
 
 if not defined PROMPT set PROMPT=$P$G
 

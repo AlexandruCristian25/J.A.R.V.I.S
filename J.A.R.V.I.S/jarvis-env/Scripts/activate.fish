@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\Alexandru Cristian\Desktop\J.A.R.V.I.S\jarvis-env'
+set -gx VIRTUAL_ENV 'E:\Stick2\J.A.R.V.I.S\jarvis-env'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
