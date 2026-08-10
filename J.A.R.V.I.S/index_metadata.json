@@ -1,0 +1,49 @@
+{
+  "apps": {
+    "last_refresh": 1783581853,
+    "index_file": {
+      "exists": true,
+      "mtime": 1783581783,
+      "size": 25759
+    },
+    "entries": 225,
+    "note": "apps index is fresh"
+  },
+  "projects": {
+    "last_refresh": 1783581853,
+    "index_file": {
+      "exists": true,
+      "mtime": 1783581784,
+      "size": 2465
+    },
+    "entries": 3,
+    "note": "projects index is fresh",
+    "root_signature": {
+      "C:\\": {
+        "mtime": 1783579716,
+        "children": 25,
+        "newest_child_mtime": 1783581134
+      },
+      "C:\\Users\\AlexandruM": {
+        "mtime": 1781982836,
+        "children": 34,
+        "newest_child_mtime": 1783581092
+      },
+      "C:\\Users\\AlexandruM\\Desktop": {
+        "mtime": 1783580827,
+        "children": 14,
+        "newest_child_mtime": 1783580827
+      },
+      "C:\\Users\\AlexandruM\\Documents": {
+        "mtime": 1783262313,
+        "children": 5,
+        "newest_child_mtime": 1783341722
+      },
+      "C:\\Users\\AlexandruM\\Downloads": {
+        "mtime": 1783580986,
+        "children": 6,
+        "newest_child_mtime": 1783580986
+      }
+    }
+  }
+}

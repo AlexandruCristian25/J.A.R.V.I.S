@@ -1,0 +1,23 @@
+[
+  {
+    "time": 1783254348,
+    "kind": "project_in_app",
+    "query": "J.A.R.V.I.S",
+    "resolved": "C:\\Users\\AlexandruM\\Desktop\\J.A.R.V.I.S",
+    "display": "J.A.R.V.I.S"
+  },
+  {
+    "time": 1783260064,
+    "kind": "project_in_app",
+    "query": "CyberShield AI",
+    "resolved": "C:\\Users\\AlexandruM\\Desktop\\CyberShield_AI_Enterprise_Hardened_Enhanced",
+    "display": "CyberShield_AI_Enterprise_Hardened_Enhanced"
+  },
+  {
+    "time": 1783332570,
+    "kind": "application",
+    "query": "firefox",
+    "resolved": "C:\\Users\\AlexandruM\\AppData\\Local\\Mozilla Firefox\\firefox.exe",
+    "display": "Firefox"
+  }
+]

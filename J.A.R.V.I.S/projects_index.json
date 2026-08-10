@@ -1,0 +1,89 @@
+{
+    "cybershieldaienterprisehardenedenhanced": {
+        "name": "CyberShield_AI_Enterprise_Hardened_Enhanced",
+        "path": "C:\\Users\\AlexandruM\\Desktop\\CyberShield_AI_Enterprise_Hardened_Enhanced",
+        "drive": "C:",
+        "type": "Node.js / JavaScript",
+        "aliases": [
+            "cyber",
+            "cybersecurityapp",
+            "cybershield",
+            "cybershieldai",
+            "cybershieldaienterprisehardenedenhanced",
+            "desktop",
+            "enhanced",
+            "enterprise",
+            "hardened",
+            "shield",
+            "shieldai"
+        ],
+        "search_keys": [
+            "cyber",
+            "cybersecurityapp",
+            "cybershield",
+            "cybershieldai",
+            "cybershieldaienterprisehardenedenhanced",
+            "desktop",
+            "enhanced",
+            "enterprise",
+            "hardened",
+            "shield",
+            "shieldai"
+        ],
+        "score": 15,
+        "strong": true,
+        "indexed_at": "2026-07-09 10:23:03"
+    },
+    "managerapp": {
+        "name": "manager-app",
+        "path": "C:\\Users\\AlexandruM\\Desktop\\manager-app-Amper-Solutions-Inc--main\\manager-app",
+        "drive": "C:",
+        "type": "Angular",
+        "aliases": [
+            "amper",
+            "app",
+            "inc",
+            "main",
+            "manager",
+            "managerapp",
+            "managerappampersolutionsincmain",
+            "solutions"
+        ],
+        "search_keys": [
+            "amper",
+            "app",
+            "inc",
+            "main",
+            "manager",
+            "managerapp",
+            "managerappampersolutionsincmain",
+            "solutions"
+        ],
+        "score": 10,
+        "strong": true,
+        "indexed_at": "2026-07-09 10:23:03"
+    },
+    "jarvis": {
+        "name": "J.A.R.V.I.S",
+        "path": "C:\\Users\\AlexandruM\\Desktop\\J.A.R.V.I.S",
+        "drive": "C:",
+        "type": "Python",
+        "aliases": [
+            "assistant",
+            "desktop",
+            "jarvis",
+            "jervis",
+            "voiceassistant"
+        ],
+        "search_keys": [
+            "assistant",
+            "desktop",
+            "jarvis",
+            "jervis",
+            "voiceassistant"
+        ],
+        "score": 5,
+        "strong": true,
+        "indexed_at": "2026-07-09 10:23:03"
+    }
+}
