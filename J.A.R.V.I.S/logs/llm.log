@@ -1,0 +1,59 @@
+[2026-07-05 10:48:27] [INFO] Request started model=llama3.2:3b, profile=code, chars=54105
+[2026-07-05 10:49:38] [INFO] generate success model=llama3.2:3b
+[2026-07-05 10:49:49] [INFO] Request started model=llama3.2:3b, profile=code, chars=54105
+[2026-07-05 10:50:38] [INFO] generate success model=llama3.2:3b
+[2026-07-05 10:50:49] [INFO] Request started model=llama3.2:3b, profile=code, chars=54105
+[2026-07-05 10:52:08] [INFO] generate success model=llama3.2:3b
+[2026-07-05 10:52:19] [INFO] Request started model=llama3.2:3b, profile=code, chars=54105
+[2026-07-05 10:53:44] [INFO] generate success model=llama3.2:3b
+[2026-07-05 10:53:55] [INFO] Request started model=llama3.2:3b, profile=code, chars=54105
+[2026-07-05 15:47:39] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:47:45] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:47:55] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:48:02] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:48:12] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:48:18] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:48:28] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:48:58] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:49:08] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:49:12] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:49:22] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:49:25] [INFO] generate success model=llama3.2:3b
+[2026-07-05 15:49:35] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 15:49:39] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:55:39] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:55:43] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:57:53] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:57:57] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:58:07] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:58:11] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:58:21] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:58:25] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:58:35] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:58:43] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:58:54] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:58:56] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:59:06] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:59:09] [INFO] generate success model=llama3.2:3b
+[2026-07-05 16:59:19] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-05 16:59:22] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:26:02] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:26:09] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:26:19] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:26:51] [WARN] generate failed model=llama3.2:3b: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+[2026-07-09 10:27:23] [WARN] chat failed model=llama3.2:3b: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+[2026-07-09 10:27:23] [WARN] Retry 1/2 failed: Model llama3.2:3b failed. generate: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30) | chat: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30). Sleeping 0.5s
+[2026-07-09 10:27:29] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:27:39] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:27:45] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:27:55] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:28:27] [WARN] generate failed model=llama3.2:3b: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+[2026-07-09 10:28:59] [WARN] chat failed model=llama3.2:3b: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+[2026-07-09 10:28:59] [WARN] Retry 1/2 failed: Model llama3.2:3b failed. generate: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30) | chat: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30). Sleeping 0.5s
+[2026-07-09 10:29:31] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:29:41] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:29:46] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:29:56] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:30:00] [INFO] generate success model=llama3.2:3b
+[2026-07-09 10:30:10] [INFO] Fast request started model=llama3.2:3b, profile=fast, chars=1724
+[2026-07-09 10:30:15] [INFO] generate success model=llama3.2:3b
